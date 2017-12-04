@@ -1,0 +1,9 @@
+Package: scuir
+Title: Single Cell User Interface for R
+Version: 0.0.0.9000
+Authors@R: person("Chris", "Conley", email = "chris.conley@hci.utah.edu", role = c("aut", "cre"))
+Description: A bioinformatics pipeline for analyzing single cell RNA-sequencing based on 10x Genomics single cell 3' solution. 
+Depends: R (>= 3.4.2)
+License: To Be Determined
+Encoding: UTF-8
+LazyData: true
